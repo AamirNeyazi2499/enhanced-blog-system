@@ -56,6 +56,11 @@ python app.py
 ---
 ## 📸 Screenshots
 
+### Folder Structure 
+
+<img width="223" height="435" alt="Screenshot 2025-09-03 190623" src="https://github.com/user-attachments/assets/6d736cfe-74b6-4a10-909a-6d142d975398" />
+
+
 ### Create Account 
 
 <img width="1903" height="970" alt="image" src="https://github.com/user-attachments/assets/71251eca-245d-4afc-ae8a-5831248fa494" />
